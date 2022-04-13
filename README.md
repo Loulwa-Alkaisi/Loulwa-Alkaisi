@@ -6,6 +6,7 @@
 - 🌱 I’m constantly growing and developing my skillsets.
 - 👯 I’m looking to collaborate on new projects and ideas.
 - 💬 Ask me about ways we could use data analysis in the art world.
+- :roller_coaster: Fun fact: I went skydiving in Dubai.
 
 # Connect with me:
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
