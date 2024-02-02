@@ -2,7 +2,6 @@
 
 ### I'm a Data Analyst, Art Manager, and always a Student.
 
-- 🔭 I'm currently working on creating my portfolio using JavaScript and HTML.
 - 🌱 I’m constantly growing and developing my skillsets.
 - 👯 I’m looking to collaborate on new projects and ideas.
 - 💬 Ask me about ways we could use data analysis in the art world.
